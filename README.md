@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there! 
+
+I'm Chris :3 (it's nice to meet you!)
+
+I'm a Chemistry major from California that codes for fun. 
+
+Other than that, there isn't much else to know about me. 
+
+Have a good one!
 
 <!--
 **chris-mariner/chris-mariner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
