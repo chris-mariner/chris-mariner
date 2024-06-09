@@ -1,24 +1,5 @@
 # Hi there! 
 
-I'm Chris :3 (it's nice to meet you!)
+I'm Chris, a Chemistry major from California that codes for fun. 
 
-I'm a Chemistry major from California that codes for fun. 
-
-Other than that, there isn't much else to know about me. 
-
-Have a good one!
-
-<!--
-**chris-mariner/chris-mariner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(it's nice to meet you!)
