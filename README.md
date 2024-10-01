@@ -1,5 +1,3 @@
 # Hi there! 
 
-I'm Chris, a Chemistry major from California that codes for fun. 
-
-(it's nice to meet you!)
+I'm Chris, a second-year undergraduate student at the University of California, Santa Cruz. 
