@@ -1,6 +1,6 @@
 # Hi there! 
 
-I'm Adira (formerly known as "Chris"), a third-year Environmental Sciences Undergraduate Student at the University of California, Santa Cruz. 
+I'm Adira (formerly known as "Chris"), a fourth-year Environmental Sciences Undergraduate Student at the University of California, Santa Cruz. 
 
 My current emphasis is on Environmental Data Science, with a focus on Geospatial Analysis. 
 
